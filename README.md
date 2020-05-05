@@ -7,6 +7,7 @@ Each sugarcane billet was captured in high resolution images and they were segme
 
 If you download or use this dataset you should cite the paper:
 Moises Alencastre-Miranda, Richard M. Johnson, Hermano Igo Krebs. "Convolutional Neural Networks and Transfer Learning for Quality Inspection of Different Sugarcane Varieties". To be published in IEEE Transactions on Industrial Informatics, early access publication in May 2020.
-https://ieeexplore.ieee.org/document/9085904
+
+You can get the paper at: https://ieeexplore.ieee.org/document/9085904
 
 The 77 Lab, Department of Mechanical Engineering, MIT.
